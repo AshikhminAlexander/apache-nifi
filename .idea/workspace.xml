@@ -576,15 +576,13 @@
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/sql/p_data/pg_wal/000000010000000000000001" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/sql/p_data/postgresql.auto.conf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/sql/p_data/postgresql.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NiFi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/nifi-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/minio/data/.minio.sys/buckets/.bloomcycle.bin/xl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/minio/data/.minio.sys/buckets/.bloomcycle.bin/xl.meta" afterDir="false" />
@@ -690,7 +688,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/NiFi",
+    "last_opened_file_path": "E:/nifi_test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -743,7 +741,7 @@
       <workItem from="1702539947957" duration="7754000" />
       <workItem from="1702565907275" duration="2105000" />
       <workItem from="1702568125620" duration="367000" />
-      <workItem from="1702568596420" duration="4188000" />
+      <workItem from="1702568596420" duration="4654000" />
     </task>
     <servers />
   </component>
