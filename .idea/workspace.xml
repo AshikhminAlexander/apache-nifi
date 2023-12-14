@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47a13209-5302-4f46-89e7-e5387213101f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/minio/data/.minio.sys/tmp/df09ea01-e294-41e5-b07f-b38e171b736d" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/minio/data/csvsample/survey6.csv/465fb5b7-83f6-445f-804b-3a9afc774f9f/part.1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_conf/archive/20231214T155645+0000_flow.xml.gz" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_conf/archive/20231214T160941+0000_flow.json.gz" afterDir="false" />
@@ -23,28 +22,12 @@
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_content_repository/1/archive/1702562938452-1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_content_repository/1/archive/1702563127885-1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_content_repository/1/archive/1702564660293-1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_flowfile_repository/journals/121.journal" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-app_2023-12-14_16.0.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2k.fdm" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2k.fdt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2k.fdx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2k_Lucene80_0.dvd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2k_Lucene80_0.dvm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2v.fdt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2v.fdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2v_Lucene80_0.dvm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2v_Lucene84_0.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2v_Lucene84_0.tim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2v_Lucene84_0.tip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2w.cfs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/_2y.cfe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_provenance_repository/lucene-8-index-1702497025949/segments_1i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_state/local/partition-1/512.journal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_state/local/partition-10/512.journal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_state/local/partition-12/512.journal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_state/local/partition-13/512.journal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_state/local/partition-14/512.journal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_state/local/partition-15/512.journal" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/sql/p_data/PG_VERSION" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/sql/p_data/base/1/1247_vm" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/sql/p_data/base/1/1249_fsm" afterDir="false" />
@@ -607,6 +590,7 @@
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_flowfile_repository/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_flowfile_repository/checkpoint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_flowfile_repository/journals/116.journal" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-app_2023-12-13_11.0.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-bootstrap.log" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-bootstrap.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-request.log" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-request.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-user.log" beforeDir="false" afterPath="$PROJECT_DIR$/apache-nifi/nifi-api/nifi_data/nifi_logs/nifi-user.log" afterDir="false" />
@@ -688,7 +672,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/nifi_test",
+    "last_opened_file_path": "E:/NiFi",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -742,6 +726,7 @@
       <workItem from="1702565907275" duration="2105000" />
       <workItem from="1702568125620" duration="367000" />
       <workItem from="1702568596420" duration="4654000" />
+      <workItem from="1702575815986" duration="1733000" />
     </task>
     <servers />
   </component>
